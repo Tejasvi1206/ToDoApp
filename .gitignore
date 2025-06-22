@@ -1,0 +1,13 @@
+# Ignore build output and unnecessary files
+build/
+debug/
+release/
+*.exe
+*.dll
+*.o
+*.obj
+*.user
+*.pro.user
+*.qmake.stash
+*.qmake.cache
+*.log
